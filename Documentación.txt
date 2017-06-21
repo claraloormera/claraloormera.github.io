@@ -1,0 +1,72 @@
+Configurar el bootstrap:
+
+1)	Descargué el paquete de bootstrap del sitio web.
+2)	Busqué la plantilla.
+3)	Copié el código fuente en un archivo .html.
+4)	Copié el css de la plantilla en un archivo .css
+5)	Armé la carpeta de Carousel donde descomprimí los archivos de bootstrap.
+6)	Una vez establecidas las carpetas css, js, fonts, img… Empecé a cambiar los href del html para que re direccionen a la ubicación del archivo correcto.
+7)	Luego realicé los cambios:
+
+HTML:
+
+1)	Usé la plantilla carrusel de bootstrap.
+2)	Cambiar el url de los js, css e imágenes.
+3)	Eliminé los captions de cada slide.
+4)	Añadí imágenes al carrusel.
+5)	Crear páginas para artículos: telenovelas, cuentos, micromachismos y la página de las especificaciones de bootstrap.
+6)	Añadí nuevos tags a la barra de menú.
+7)	Personalizar el navbar de cada página.
+8)	Botones en el home “Leer más”.
+9)	Cada botón redirecciona al artículo correspondiente.
+10)	Creación de nuevas clases para las distintas etiquetas.
+11)	Cambié el título de la página en la etiqueta <title>.
+12)	Saqué las imágenes del html para ponerlas en el css.
+13)	Añadí los íconos de bootstrap glyphicon.
+14)	Cambios en el footer.
+15)	El artículo de micromachismos tiene más ancho con la clase col-md-12.
+
+
+CSS:
+
+1)	Alinear los textos de forma justificada.
+2)	Subir el margin del texto de cada artículo.
+3)	Cambiar las imágenes circulares a recuadros con bordes en la página de bootstrap.
+4)	Crear imágenes para cada tamaño de pantalla.
+5)	Añadir imágenes al css para hacerlas adaptables.
+6)	Fijar un color de fondo cuando se cargue una imagen.
+7)	Imagen fijada al fondo en el header de la página micromachismos.
+8)	Cambiar el color de fondo del logo.
+9)	Cambiar el color del texto del logo a blanco.
+10)	Recuadro en el artículo de la página Telenovelas.
+11)	Cambiar el margin de las imágenes.
+12)	Color de los títulos de la página de telenovelas.
+13)	Sombra al h1 de telenovelas.
+14)	Espaciado entre el título y el texto por medio del margin top.
+15)	Añadirle padding al texto de la página cuentos.
+16)	Borde doble al recuadro del artículo.
+17)	Fondo del artículo de cuentos blanco.
+18)	Añadirle sombra al título de cuentos.
+19)	Artículo de micromachismos más ancho.
+20)	Imagen de la página micromachismos centrada y debajo del texto.
+21)	Líneas superior e inferior en el artículo.
+22)	Disminuir el margin de la línea del artículo.
+23)	Ícono de ir arriba en el footer.
+24)	Copyright centrado.
+25)	Color del ícono del footer rosa.
+26)	Botones del inicio de color celeste.
+27)	Border style punteado a los botones.
+28)	Color del borde gris.
+29)	Background-color de la lista desplegable del menú.
+30)	Cambiar las imágnes cuando la pantalla esté máximo de 767 px.
+31)	Cambiar las imágenes cuando sea la pantalla de un celular.
+32)	Centrar las imágenes.
+33)	Poner que no se repitan las imágenes en mosaico.
+34)	Cambiar el largo de las imágenes en responsive.
+35)	Botones de la página de bootstrap ovalados.
+36)	Botones de color morado.
+37)	Color del texto de los botones blanco.
+38)	Añadir margin a la caja de marketing de la página bootstrap.
+39)	Cambiar el color de la firma del texto.
+40)	Cambiar el color de las etiquetas a en el footer de la página de cuentos.
+41)	Modificar el margin del texto cuando está en pantalla pequeña.
